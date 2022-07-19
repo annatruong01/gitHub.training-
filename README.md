@@ -1,1 +1,1 @@
-# gitHub-training
+# gitHub.training
